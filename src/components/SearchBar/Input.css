@@ -1,0 +1,9 @@
+.search-bar {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  
+  .search-bar input {
+    padding: 5px;
+    margin: 10px;
+  }
